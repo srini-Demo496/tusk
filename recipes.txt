@@ -9,3 +9,6 @@ Chicken Fry
 Motton
 
 thank you 
+
+
+Confirm on your local machine about the machine 
